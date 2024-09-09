@@ -1,0 +1,5 @@
+{
+    "name": "Hugo DevContainer",
+    "image": "hugomods/hugo:latest",
+    "postCreateCommand": "hugo version",
+}
