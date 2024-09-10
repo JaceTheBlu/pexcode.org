@@ -1,67 +1,50 @@
-# Pexcode
+# PexCode.org 🌐
 
-Welcome to **Pexcode**! 🚀
+Welcome to the **PexCode.org** repository! This is the official website for our community-driven platform, built to empower young IT professionals through collaboration, real-world projects, and skill development. The site is built with **Hugo**, a powerful static site generator, to provide a fast and flexible platform for sharing resources, updates, and opportunities.
 
-Pexcode is an innovative tool designed to enhance your coding experience. Whether you’re developing, learning, or collaborating, Pexcode provides a robust set of features to streamline your workflow and improve productivity.
+## 🌟 What is PexCode.org?
 
-## 🚀 Features
+**PexCode.org** is an association created to help recent IT graduates gain practical experience by working on real-world projects, participating in skill-boosting workshops, and collaborating with a community of like-minded individuals. Our mission is to provide the tools and environment needed to foster professional growth in a business-like setting.
 
-### Core Features
-- **Code Snippets**: Store and manage reusable code snippets efficiently.
-- **Syntax Highlighting**: Supports multiple programming languages with syntax highlighting for easier readability.
-- **Version Control**: Track changes to your snippets and revert to previous versions if needed.
-- **Collaboration Tools**: Share your code snippets with others and collaborate on coding projects in real-time.
+## 🚀 Key Features
 
-### Planned Enhancements
-- **Advanced Search**: Enhanced search capabilities for quickly finding your snippets.
-- **Integration with IDEs**: Seamless integration with popular Integrated Development Environments (IDEs).
-- **Snippet Tags**: Add tags to snippets for better organization and retrieval.
-- **Multi-language Support**: Expand support to additional programming languages.
+- **Community Hub**: A space for developers to connect, learn, and grow.
+- **Real-World Projects**: Hands-on experience through IT projects that reflect industry challenges.
+- **Workshops & Training**: Regular sessions designed to keep you up to date with the latest technologies.
+- **Career Support**: Tools and guidance to help young developers kickstart their careers.
+  
+## 🛠️ Tech Stack
 
-## 🌐 Access
+- **Hugo**: Static site generator used to build and maintain the website.
+- **Tailwind CSS**: For sleek, modern styling.
+- **Markdown**: Simple and efficient content management with Hugo’s markdown-based approach.
+- **GitHub**: Version control and collaboration.
+  
+## 📁 Repository Structure
 
-You can explore Pexcode at [pexcode.org](https://pexcode.org). The website provides an intuitive interface and a wealth of resources to help you get started.
+- `/content`: All the website’s content, including blog posts, project details, and more.
+- `/layouts`: Layouts and templates for the website structure.
+- `/static`: Static assets like images and other files.
+- `/themes`: Custom theme configurations for styling.
 
-## 💡 Getting Started
+## 🔗 How to Access
 
-1. **Visit the Website**: Go to [pexcode.org](https://pexcode.org) to start using Pexcode.
-2. **Create an Account**: Sign up to access all features and manage your code snippets.
-3. **Explore Tutorials**: Follow our onboarding tutorial for a comprehensive guide on using Pexcode.
+You can visit the website here: [PexCode.org](https://www.pexcode.org).
 
-## 📜 Changelog
+## 🎓 Join Us
 
-### Version 0.1.1 - First Release
-- **Initial Release**: Launched core features including code snippet management and basic syntax highlighting.
+We’re always looking for new members to collaborate with us. Whether you want to contribute to projects, help organize workshops, or simply get involved in the community, we’d love to have you on board!  
+[Join us](https://www.pexcode.org/contact).
 
-### Version 1.0.0 - Major Update
-- **Enhanced UI**: Updated design for a better user experience.
-- **Version Control**: Added version tracking for code snippets.
-- **Collaboration Features**: Introduced real-time collaboration tools.
+## 📄 License
 
-## 🛠️ Contributing
+This repository is licensed under the MIT License. For more information, see the `LICENSE` file.
 
-We welcome contributions from the community! If you’d like to contribute to Pexcode, please follow these steps:
+## 👥 Members
 
-1. **Fork the Repository**: Click the "Fork" button on the top right of the repository page.
-2. **Clone Your Fork**: Use `git clone` to create a local copy of your fork.
-3. **Create a Branch**: Create a new branch for your changes.
-4. **Submit a Pull Request**: Push your changes and submit a pull request for review.
+- **[Gaetan Gestin](https://ggestin.com/)** – President, Developer
+- **[Alan Vadeleau](https://www.linkedin.com/in/alan-vadeleau/)** – Representative, Developer
 
-## 🤔 FAQ
+## 💬 Contact
 
-**Is Pexcode open-source?**  
-Yes, Pexcode is open-source. You can view and contribute to the code on our [GitHub repository](https://github.com/JaceTheBlu/pexcode.org).
-
-**How can I report a bug?**  
-Please open an issue on our GitHub repository with a description of the bug and any relevant details.
-
-**I have an idea for a feature. How can I suggest it?**  
-We’d love to hear your ideas! Open an issue on GitHub and describe your feature suggestion.
-
-## 📧 Contact
-
-For further inquiries or support, you can reach out to us at:
-
-- **Email**: support@pexcode.org
-
-Thank you for your interest in Pexcode. We look forward to your feedback and contributions!
+Have any questions or ideas? Feel free to reach out to us via our [contact page](https://www.pexcode.org/contact).
