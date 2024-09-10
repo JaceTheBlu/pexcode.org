@@ -1,0 +1,29 @@
+  [[main]]
+  name = "Accueil"
+  identifier = "home"
+  weight = 100
+  url = "/fr/"
+
+  [[main]]
+  name = "Actus"
+  weight = 200
+  identifier = "posts"
+  url = "/fr/posts/"
+
+  [[main]]
+  name = "Projets"
+  weight = 300
+  identifier = "project"
+  url = "/fr/projects/"
+
+  [[main]]
+  name = "A Propos"
+  weight = 400
+  identifier = "about"
+  url = "/fr/about"
+
+  [[main]]
+  name = "Contact"
+  weight = 600
+  identifier = "contact"
+  url = "/fr/contact"

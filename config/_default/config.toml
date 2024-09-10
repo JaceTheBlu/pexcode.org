@@ -1,9 +1,15 @@
 baseURL = 'https://pexcode.org/'
-languageCode = 'en-us'
-title = 'DevsAsso'
+title = 'PexCode.org'
+
+languageCode = "en"
+DefaultContentLanguage = "en"
+
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
 
 [params]
-#contactFormAction = "https://formspree.io/f/movabokp"
+contactFormAction = "https://formspree.io/f/movabokp"
 author = "PexCode 💖"
 profilePicture = "images/profile.jpg"
 description = """
@@ -13,7 +19,9 @@ This association 💡 fuels IT grads with:
 • Collaboration 🤝 
 to supercharge their career journey 🚀.
 """
-contentratio = 0.65
+contentratio = 0.75 
+favicon = "favicons/"
+mainSections = ["posts"]
 
 
 [[params.socialIcons]]
@@ -25,26 +33,6 @@ url = "mailto:contact@pexcode.org"
 icon = "fa-brands fa-linkedin"
 title = "LinkedIn"
 url = "https://www.linkedin.com/company/pexcode-org"
-
-[menu]
-
-  [[menu.main]]
-  name = "Home"
-  identifier = "home"
-  weight = 100
-  url = "/"
-
-  [[menu.main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
-
-  [[menu.main]]
-  name = "About"
-  weight = 300
-  identifier = "about"
-  url = "/about/"
 
 [module]
   # uncomment line below for temporary local development of module

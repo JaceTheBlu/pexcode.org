@@ -1,0 +1,13 @@
+[en]
+title = "My blog"
+weight = 1
+LanguageName = "EN"
+contentDir = "content/en"
+
+[fr]
+title = "Mon Blog"
+weight = 2
+LanguageName = "FR"
+contentDir = "content/fr" 
+[fr.params]
+description = "desc en fr"

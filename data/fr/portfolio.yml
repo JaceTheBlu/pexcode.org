@@ -1,0 +1,43 @@
+portfolioitems:
+  # portfolio category
+  - title: Projets
+    description: 'All of our coding projects'
+    portfolioitem:
+      - name: GGenerator
+        image: '/images/projects/ggenerator.jpg'
+        link: https://https://ggenerator-beta.vercel.app/
+        linktext: 'Visit project website'
+        description: 'A fancy multi-purpose generator for (theoretically) every cases where you need random things 🎲'
+        tags:
+          - Web
+          - Svelte.js
+          - Tailwind.css
+        status: 'On Hold'
+        start: 'January 2024'
+        authors:
+          - Gaetan Gestin
+          - Alan Vadeleau
+  # portfolio category
+  - title: Ideas
+    description: 'Projects that are in a early state'
+    portfolioitem:
+      - name: Project 1
+        image: '/images/portfolio/code.jpg'
+        description: 'This project does not have a link attribute'
+        tags:
+          - Tag 1
+          - Tag 2
+      - name: Project 2
+        image: '/images/portfolio/code.jpg'
+        link: https://gohugo.io/
+        description: 'You can click on [**this link**](#codingprojects) to scroll to my Coding Projects portfolio'
+        tags:
+          - Tag 1
+          - Tag 2
+      - name: Project 3
+        image: '/images/portfolio/code.jpg'
+        link: https://gohugo.io/
+        description: 'A description'
+        tags:
+          - Tag 1
+          - Tag 2
