@@ -4,7 +4,7 @@ title = 'PexCode.org'
 languageCode = "en"
 DefaultContentLanguage = "en"
 
-summarylength = 10
+summarylength = 3
 enableEmoji = true
 enableRobotsTXT = true
 
