@@ -10,4 +10,10 @@ weight = 2
 LanguageName = "FR"
 contentDir = "content/fr" 
 [fr.params]
-description = "desc en fr"
+description = """
+Cette association 💡 propulse les diplômés en informatique avec :
+• Des projets concrets 🛠
+• Des ateliers riches en compétences 🎓
+• Des opportunités de collaboration 🤝
+pour dynamiser leur parcours professionnel 🚀.
+"""

@@ -1,43 +1,56 @@
 portfolioitems:
-  # portfolio category
-  - title: Projets
-    description: 'All of our coding projects'
+  # catégorie du portfolio
+  - title: Projets de Codage
+    description: 'Tous nos projets de codage'
     portfolioitem:
       - name: GGenerator
-        image: '/images/projects/ggenerator.jpg'
-        link: https://https://ggenerator-beta.vercel.app/
-        linktext: 'Visit project website'
-        description: 'A fancy multi-purpose generator for (theoretically) every cases where you need random things 🎲'
+        image: '/images/projects/ggenerator.png'
+        link: https://ggenerator-beta.vercel.app/
+        linktext: 'Visitez le site du projet'
+        description: 'Un générateur multifonction élégant pour (théoriquement) tous les cas où vous avez besoin de choses aléatoires 🎲'
         tags:
           - Web
           - Svelte.js
           - Tailwind.css
-        status: 'On Hold'
-        start: 'January 2024'
+        status: 'En attente'
+        start: 'Janvier 2024'
         authors:
           - Gaetan Gestin
           - Alan Vadeleau
-  # portfolio category
-  - title: Ideas
-    description: 'Projects that are in a early state'
+      - name: Site Web PexCode.org
+        image: '/images/projects/pexcode.jpg'
+        link: /
+        linktext: 'Visitez le site du projet'
+        description: 'Ce site Web que vous visitez actuellement !'
+        tags:
+          - Web
+          - Hugo
+        status: 'Terminé'
+        start: 'Septembre 2024'
+        authors:
+          - Gaetan Gestin
+          - Alan Vadeleau
+  # catégorie du portfolio
+  - title: Boîte à Idées
+    description: 'Projets en phase préliminaire'
     portfolioitem:
-      - name: Project 1
-        image: '/images/portfolio/code.jpg'
-        description: 'This project does not have a link attribute'
-        tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 2
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'You can click on [**this link**](#codingprojects) to scroll to my Coding Projects portfolio'
-        tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 3
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'A description'
-        tags:
-          - Tag 1
-          - Tag 2
+      # - name: Projet 1
+      #   image: '/images/portfolio/code.jpg'
+      #   description: 'Ce projet n\'a pas d\'attribut de lien'
+      #   tags:
+      #     - Tag 1
+      #     - Tag 2
+      # - name: Projet 2
+      #   image: '/images/portfolio/code.jpg'
+      #   link: https://gohugo.io/
+      #   description: 'Vous pouvez cliquer sur [**ce lien**](#codingprojects) pour faire défiler mes projets de codage'
+      #   tags:
+      #     - Tag 1
+      #     - Tag 2
+      # - name: Projet 3
+      #   image: '/images/portfolio/code.jpg'
+      #   link: https://gohugo.io/
+      #   description: 'Une description'
+      #   tags:
+      #     - Tag 1
+      #     - Tag 2

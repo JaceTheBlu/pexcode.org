@@ -31,7 +31,7 @@ portfolioitems:
           - Gaetan Gestin
           - Alan Vadeleau
   # portfolio category
-  - title: Ideas
+  - title: Ideas Box
     description: 'Projects that are in a early state'
     portfolioitem:
       # - name: Project 1

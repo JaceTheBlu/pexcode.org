@@ -23,6 +23,12 @@
   url = "/fr/about"
 
   [[main]]
+  name = "Membres"
+  weight = 400
+  identifier = "membres"
+  url = "/fr/members"
+
+  [[main]]
   name = "Contact"
   weight = 600
   identifier = "contact"
